@@ -1,0 +1,3 @@
+/apis/a/services?limit=50&resourceVersion=1234
+/api/v1/events?timeout=20s&limit=10&resourceVersion=15
+/apis/a/pods?resourceVersion=778&timeout=10m&watch=true
